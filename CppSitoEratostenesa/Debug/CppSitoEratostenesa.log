@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\ryfles2\desktop\cppsitoeratostenesa\cppsitoeratostenesa\source.cpp(20): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+  CppSitoEratostenesa.vcxproj -> C:\Users\Ryfles2\Desktop\CppSitoEratostenesa\Debug\CppSitoEratostenesa.exe
