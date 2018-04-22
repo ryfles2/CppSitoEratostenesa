@@ -1,2 +1,3 @@
 ﻿  Source.cpp
-  CppSitoEratostenesa.vcxproj -> C:\Users\Ryfles2\Desktop\CppSitoEratostenesa\Debug\CppSitoEratostenesa.exe
+c:\users\ryfles\desktop\cppsitoeratostenesa\cppsitoeratostenesa\source.cpp(23): warning C4244: 'return': conversion from 'unsigned __int64' to 'int', possible loss of data
+  CppSitoEratostenesa.vcxproj -> C:\Users\Ryfles\Desktop\CppSitoEratostenesa\Debug\CppSitoEratostenesa.exe
